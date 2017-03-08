@@ -1,4 +1,4 @@
-http://jsfiddle.net/9gmz4amw/
+//http://jsfiddle.net/9gmz4amw/
 
 //HTML
 <canvas id="canvas" width=800 height=600></canvas>
